@@ -88,5 +88,6 @@ Projets réalisés dans un cadre académique exigeant, en lien avec des problém
 
 ## 🖼️ Ce portfolio utilise le thème Jekyll **Forty**
 
+- Lien vers le thème : [Theme Jekyll Forty](https://https://jekyllthemes.io/theme/forty-jekyll-theme)
 ---
 
