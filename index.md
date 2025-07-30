@@ -1,7 +1,16 @@
+---
+layout: home
+title: Accueil
+landing-title: "IA Engineer Student"
+description: "Portfolio Data Scientist & IA Engineer"
+image: null
+author: Aymane Mimoun
+show_tile: false
+---
+
 # 🌐 Aymane Mimoun – Data Scientist | ML Engineer | Deep Learning Enthusiast
 
-Bienvenue sur mon **portfolio personnel**. Je suis **Aymane**, passionné par la **Data Science**, le **Machine Learning**, le **Deep Learning** et les méthodes avancées d'**incertitude en modélisation prédictive**.  
-Je combine des compétences techniques solides avec une rigueur de développement (CI/CD, Docker, tests) pour produire des projets robustes, reproductibles et bien structurés.
+Bienvenue sur mon **portfolio personnel**. Je combine des compétences techniques et théoriques solides en Machine Learning, Deep Learning avec une rigueur de développement (CI/CD, Docker, tests) pour produire des projets robustes, reproductibles et bien structurés.
 
 🔗 [Voir le site en ligne](https://Aymane-Ml.github.io)
 
@@ -14,7 +23,7 @@ Je combine des compétences techniques solides avec une rigueur de développemen
 
 - **Modèles** : Random Forest, Extra Trees, Bagging
 - **Résultats** : F1-score > 0.90, AUC ≈ 0.94
-- **Stack** : scikit-learn, pandas, mlflow, Docker, GitHub Actions
+- **Stack** : scikit-learn, pandas, mlflow, Docker, Kubernetes, Yaml
 - **Bonnes pratiques** : pipeline complet, CI/CD, tests unitaires, image Docker
 - 📂 [Repo GitHub](https://github.com/Aymane-ML/Ice-Classification_MLops)
 
@@ -25,7 +34,7 @@ Je combine des compétences techniques solides avec une rigueur de développemen
 
 - **Modèles** : CNN, ResNet, MobileNet adaptés à MNIST
 - **Méthodes** : apprentissage semi-supervisé, VAT
-- **Stack** : PyTorch, pytest, black, Docker, GitHub Actions
+- **Stack** : PyTorch, pytest, black, Docker, Yaml
 - **Objectif** : généraliser à partir de très peu de supervision
 - 📂 [Repo GitHub](https://github.com/Aymane-ML/Projet-Deep-Learning---Classification-MNIST-avec-PyTorch-VAT)
 
