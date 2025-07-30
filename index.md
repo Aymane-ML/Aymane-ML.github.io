@@ -8,7 +8,7 @@ author: Aymane Mimoun
 show_tile: false
 ---
 
-# 🌐 Aymane Mimoun – Data Scientist | ML Engineer | Deep Learning Enthusiast
+# 🌐 Aymane Mimoun – Data Scientist | Deep Learning | IA & ML Engineering
 
 Bienvenue sur mon **portfolio personnel**. Je combine des compétences techniques et théoriques solides en Machine Learning, Deep Learning avec une rigueur de développement (CI/CD, Docker, tests) pour produire des projets robustes, reproductibles et bien structurés.
 
@@ -24,24 +24,24 @@ Bienvenue sur mon **portfolio personnel**. Je combine des compétences technique
 - **Modèles** : Random Forest, Extra Trees, Bagging
 - **Résultats** : F1-score > 0.90, AUC ≈ 0.94
 - **Stack** : scikit-learn, pandas, mlflow, Docker, Kubernetes, Yaml
-- **Bonnes pratiques** : pipeline complet, CI/CD, tests unitaires, image Docker
+- **Bonnes pratiques** : pipeline complet, CI/CD, tests unitaires, image Docker, Fast API
 - 📂 [Repo GitHub](https://github.com/Aymane-ML/Ice-Classification_MLops)
 
 ---
 
 ### 🔢 2. Classification semi-supervisée de MNIST avec VAT
-> Apprentissage à partir de 100 images étiquetées seulement, via **Virtual Adversarial Training** (PyTorch).
+> Apprentissage à partir de 100 images étiquetées seulement, Fine Tuning avec **Virtual Adversarial Training** (PyTorch).
 
 - **Modèles** : CNN, ResNet, MobileNet adaptés à MNIST
 - **Méthodes** : apprentissage semi-supervisé, VAT
-- **Stack** : PyTorch, pytest, black, Docker, Yaml
+- **Stack** : PyTorch, Fine Tuning MLP, pytest, black, Docker, Yaml
 - **Objectif** : généraliser à partir de très peu de supervision
 - 📂 [Repo GitHub](https://github.com/Aymane-ML/Projet-Deep-Learning---Classification-MNIST-avec-PyTorch-VAT)
 
 ---
 
 ### 📏 3. Incertitude en régression multi-sorties (Conformal Prediction)
-> Implémentation en **R + C++** de méthodes pour quantifier l’incertitude dans des tâches de régression multi-dimensionnelle.
+> Implémentation en **R & C++** de méthodes pour quantifier l’incertitude dans des tâches de régression multi-dimensionnelle.
 
 - **Méthodes** : Beta-Optim, Max Rank, Fast Beta-Optim
 - **Objectif** : fournir des **intervalles de prédiction simultanés fiables**
@@ -80,8 +80,8 @@ Projets réalisés dans un cadre académique exigeant, en lien avec des problém
 
 ## 📫 Me contacter
 
-- 📧 **Email** : [aymane.mimoun@mail.com](mailto:aymane.mimoun@mail.com)
-- 💼 **LinkedIn** : [linkedin.com/in/aymane-mimoun](#) *(à compléter si tu veux le lien exact)*
+- 📧 **Email** : [aym.mimoun@mail.com](mailto:aym.mimoun@mail.com)
+- 💼 **LinkedIn** : [linkedin](https://www.linkedin.com/in/aymane-mimoun-892697221/) 
 - 💻 **GitHub** : [github.com/Aymane-ML](https://github.com/Aymane-ML)
 
 ---
