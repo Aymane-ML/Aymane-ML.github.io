@@ -10,7 +10,7 @@ show_tile: false
 
 # 🌐 Aymane Mimoun – Data Scientist | Deep Learning | IA & ML Engineering
 
-Bienvenue sur mon **portfolio personnel**. Je combine des compétences techniques et théoriques solides en Machine Learning, Deep Learning avec une rigueur de développement (CI/CD, Docker, tests) pour produire des projets robustes, reproductibles et bien structurés.
+Bienvenue sur mon **portfolio personnel**. Bientôt dimlomé d'un Master de Mathématiques Appliquées à la Data Science et à l'IA, je combine des compétences techniques et théoriques solides en Machine Learning, Deep Learning avec une rigueur de développement (CI/CD, Docker, tests) pour produire des projets robustes, reproductibles et bien structurés.
 
 🔗 [Voir le site en ligne](https://Aymane-Ml.github.io)
 
