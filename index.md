@@ -55,30 +55,31 @@ Bienvenue sur mon **portfolio personnel**. Bientôt dimlomé d'un Master de Math
 
 | Domaine                    | Stacks                                                                                                     |
 |----------------------------|------------------------------------------------------------------------------------------------------------|
-| ML/DL & Data Science       | PyTorch, Transformers, R, TensorFlow, Keras, Scikit-learn, XGBoost, MLflow, Pandas, Numpy, OpenCV, Seaborn |
+| AI & Data Science          | PyTorch, Transformers, R, TensorFlow, Keras, Scikit-learn, XGBoost, MLflow, Pandas, Numpy, OpenCV, Seaborn |
 | MLOps & Dev                | Docker, Kubernetes, Git, CI/CD, FastAPI, tests unitaires, linting, CUDA, C++, Rcpp                         |
 | Data Engineering & Data Viz| PostgreSQL, MySQL, MongoDB, Hadoop                                                                         |
 
 
 ---
 
-## 📦 Environnements reproductibles
+## Environnements reproductibles
 
 Tous les projets sont fournis avec :
 - `Dockerfile` pour isolation & portabilité
 - `requirements.txt` ou `environment.yml`
 - Workflows CI/CD (GitHub Actions) : linting, tests, exécution de notebooks
+- Orchestration des images docker avec kubernetes
 
 ---
 
-## 🎓 Formation
+## Formation
 
-**M2 Data Science**, Université Paris-Saclay – Promo 2025  
+**M2 Mathématiques et Applications, Data Science**, Université Paris-Saclay – Promo 2025  
 Projets réalisés dans un cadre académique exigeant, en lien avec des problématiques réelles.
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - 📧 **Email** : [aym.mimoun@mail.com](mailto:aym.mimoun@mail.com)
 - 💼 **LinkedIn** : [linkedin](https://www.linkedin.com/in/aymane-mimoun-892697221/) 
@@ -86,7 +87,7 @@ Projets réalisés dans un cadre académique exigeant, en lien avec des problém
 
 ---
 
-## 🖼️ Ce portfolio utilise le thème Jekyll **Forty**
+## Ce portfolio utilise le thème Jekyll **Forty**
 
 - **Lien vers le thème** : [Theme Jekyll Forty](https://https://jekyllthemes.io/theme/forty-jekyll-theme)
 ---
